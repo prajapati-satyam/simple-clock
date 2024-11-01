@@ -14,5 +14,5 @@ This is a simple **Analog Clock** built using HTML, CSS, and JavaScript. The clo
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/simple-analog-clock.git
+   git clone https://github.com/prajapati-satyam/simple-clock
    cd simple-analog-clock
