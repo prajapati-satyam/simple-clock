@@ -1,0 +1,49 @@
+#container {
+    position: relative;
+    height: 40vw;
+    width: 40vw;
+    background-image: url("https://i.ibb.co/GPbbQRX/clock.png");
+    background-repeat: no-repeat;
+    /* background-color: black; */
+    background-size: 100%;
+    margin: auto;
+    border: 2px solid purple;
+    border-radius: 2%;
+}
+#hourHand, #minitueHand, #secondHand {
+    background-color: black;
+    transform-origin: bottom;
+}
+#hourHand {
+    position: absolute;
+    background: rgb(255, 0, 0);
+    height: 22.5%;
+    width: 2%;
+    border-radius: 2vw;
+    top: 27%;
+    left: 49.15%;
+    /* transform: rotate(290deg); */
+    /* display: none; */
+}
+#minitueHand {
+    position: absolute;
+    background: green;
+    height: 30.5%;
+    width: 2%;
+    border-radius: 2vw;
+    top: 19%;
+    left: 49.15%;
+    /* display: none; */
+    /* transform: rotate(90deg); */
+}
+#secondHand {
+    position: absolute;
+    background: blueviolet;
+    height: 34.5%;
+    width: 2%;
+    border-radius: 2vw;
+    top: 15%;
+    left: 49.15%;
+    /* transform: rotate(0deg); */
+    /* display: none; */
+}
