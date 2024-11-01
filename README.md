@@ -2,7 +2,7 @@
 
 This is a simple **Analog Clock** built using HTML, CSS, and JavaScript. The clock dynamically displays the current time with hour, minute, and second hands.
 
-**Live Demo**: [View the Clock](https://simple-clock-six.vercel.app/)
+**Live Demo**: <a href="https://simple-clock-six.vercel.app/" target="_blank">View the Clock</a>
 
 ## Features
 
